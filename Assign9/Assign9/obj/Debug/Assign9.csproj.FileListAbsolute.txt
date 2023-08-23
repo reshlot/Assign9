@@ -1,0 +1,8 @@
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\bin\Debug\Assign9.exe.config
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\bin\Debug\Assign9.exe
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\bin\Debug\Assign9.pdb
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\obj\Debug\Assign9.csproj.AssemblyReference.cache
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\obj\Debug\Assign9.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\obj\Debug\Assign9.csproj.CoreCompileInputs.cache
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\obj\Debug\Assign9.exe
+D:\Simplilearn\SQL\DAYS\Day-9\Assign9\Assign9\obj\Debug\Assign9.pdb
